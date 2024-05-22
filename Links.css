@@ -1,0 +1,30 @@
+body{
+background-color: black;
+color: white;
+font-family: sans-serif;
+}
+.title{
+text-align: center;
+font-size: 70px;
+}
+.block{
+color: red;
+}
+.unblock{
+color: rgb(66, 245, 78);
+}
+small{
+font-size: 20px;
+}
+.title2{
+position: absolute;
+right: 80px;
+top: 220px;
+font-size: 40px;
+}
+.explain{
+position: absolute;
+font-size: 30px;
+right: 50px;
+top: 290px;
+}

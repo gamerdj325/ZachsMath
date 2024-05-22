@@ -1,0 +1,566 @@
+Body {
+  Background-color: black;
+}
+
+.Title {
+  color: white;
+  Font-family: sans-serif;
+  font-size: 35px;
+}
+
+.Retro-Bowl {
+  Font-family: sans-serif;
+  border-radius: 10px;
+  border: none;
+  height: 150px;
+  width: 110px;
+  cursor: pointer;
+  box-shadow: 0px 0px 17px 10px red;
+  transition: 1s;
+  background-color: rgb(80, 143, 36, 255);
+  font-size: 20px;
+}
+
+.Retro-Bowl:hover {
+  transform: scale(1.1, 1.1);
+  box-shadow: 0px 0px 15px 10px blue;
+}
+
+.Credits {
+  margin-top: 50px;
+  cursor: pointer;
+  border: none;
+  width: 110px;
+  height: 40px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 25px;
+  transition: .5s;
+  box-shadow: 0px 0px 20px 5px white;
+  margin-bottom: 30px;
+  margin-right: 20px;
+
+
+}
+
+.Credits:hover {
+  transform: scale(1.1, 1.1);
+  box-shadow: 0px 0px 20px 5px white;
+  font-size: 25px;
+}
+
+.Links {
+  margin-top: 50px;
+  cursor: pointer;
+  border: none;
+  width: 110px;
+  height: 40px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 25px;
+  transition: .5s;
+  box-shadow: 0px 0px 20px 5px white;
+  margin-bottom: 30px;
+}
+
+.Links:hover {
+  transform: scale(1.1, 1.1);
+  box-shadow: 0px 0px 20px 5px white;
+  font-size: 25px;
+}
+
+.Snow-Rider {
+  border: none;
+  border-radius: 10px;
+  margin-left: 28px;
+  box-shadow: 0px 0px 17px 10px red;
+  width: 110px;
+  height: 150px;
+  font-size: 20px;
+  transition: 1s;
+  cursor: pointer;
+}
+
+.Snow-Rider:hover {
+  transform: scale(1.1, 1.1);
+  box-shadow: 0px 0px 15px 10px blue;
+}
+
+.Doge-Miner {
+  Width: 110px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: rgba(254, 238, 189, 255);
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 18px;
+}
+
+.Doge-Miner:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.fort {
+  Width: 110px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: rgb(80, 198, 243);
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 24px;
+}
+
+.fort:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.fnaf1 {
+  Width: 110px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: black;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 24px;
+  color: white;
+}
+
+.fnaf1:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.mopeio {
+  Width: 110px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: rgb(62, 187, 85);
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 24px;
+}
+
+.mopeio:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Slope {
+  Width: 110px;
+  height: 150px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: black;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 26px;
+  color: white;
+  margin-left: 28px;
+}
+
+.Slope:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Minecraft {
+  Width: 110px;
+  height: 150px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: #1bb710;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 23px;
+}
+
+.Minecraft:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Scooperia {
+  Width: 110px;
+
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: #8a67bc;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 20px;
+}
+
+.Scooperia:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Pizzeria {
+  Width: 110px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: #2c4c15;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 22px;
+  color: white;
+}
+
+.Pizzeria:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Krunker {
+  Width: 110px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: rgb(130, 140, 152);
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 22px;
+  color: black;
+}
+
+.Krunker:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Overit {
+  Width: 110px;
+  margin-top: 25px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 18px;
+  color: black;
+}
+
+.Overit:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Drift {
+  Width: 110px;
+  margin-top: 25px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: #1c0f18;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 20px;
+  color: white;
+}
+
+.Drift:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.Subway {
+  Width: 110px;
+  margin-top: 25px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: #130131;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 20px;
+  color: white;
+}
+
+.Subway:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Hole {
+  Width: 110px;
+  margin-top: 25px;
+  height: 150px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: black;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 25px;
+  color: white;
+}
+
+.Hole:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.OvO {
+  Width: 110px;
+  margin-top: 25px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  background-color: black;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 25px;
+  color: white;
+}
+
+.OvO:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Shell {
+  Width: 110px;
+  margin-top: 25px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 18px;
+}
+
+.Shell:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.infinite {
+  Width: 110px;
+  margin-top: 25px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 20px;
+}
+
+.infinite:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Geo {
+  Width: 110px;
+  margin-top: 25px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 20px;
+  Background-color: rgb(1, 18, 61);
+  color: white;
+}
+
+.Geo:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Jetpack {
+  Width: 110px;
+  margin-top: 25px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 20px;
+  Background-color: rgb(133, 131, 178);
+}
+
+.Jetpack:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Emerald {
+  Width: 110px;
+  margin-top: 25px;
+  height: 150px;
+  margin-left: 28px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 20px;
+  Background-color: rgb(1, 165, 78);
+}
+
+.Emerald:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Adventure {
+  Width: 110px;
+  margin-top: 25px;
+  height: 150px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 18px;
+  Background-color: rgb(252, 227, 142);
+}
+
+.Adventure:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.X3M {
+  Width: 110px;
+  margin-left: 28px;
+  height: 150px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 20px;
+  Background-color: rgba(39, 147, 212);
+}
+
+.X3M:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Racer {
+  Width: 110px;
+  margin-left: 28px;
+  height: 150px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 23px;
+  Background-color: rgba(0, 0, 0);
+  Color: white;
+  position: relative;
+  top: 10px;
+}
+
+.Racer:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Ant {
+  Width: 110px;
+  margin-left: 28px;
+  height: 150px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 23px;
+  Background-color: rgb(255, 181, 0);
+  position: relative;
+  top: -8px;
+}
+
+.Ant:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.Sapphire {
+  Width: 110px;
+  margin-left: 28px;
+  height: 150px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 23px;
+  Background-color: rgb(26, 100, 172);
+  position: relative;
+  top: -8px;
+}
+
+.Sapphire:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}
+
+.nonblob {
+  Width: 110px;
+  margin-left: 28px;
+  height: 150px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  box-shadow: 0px 0px 17px 10px red;
+  Font-size: 23px;
+  Background-color: rgb(25, 161, 95);
+  position: relative;
+}
+
+.nonblob:hover {
+  box-shadow: 0px 0px 15px 10px blue;
+  transform: scale(1.1, 1.1);
+  cursor: pointer;
+}

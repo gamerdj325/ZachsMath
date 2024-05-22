@@ -1,0 +1,46 @@
+body {
+background-color: black;
+}
+.content {
+font-family: sans-serif;
+text-align: center;
+color: white;
+}
+
+input[type=text] {
+height: 50px;
+width: 300px;
+text-align: center;
+font-size: 15px;
+border-radius: 10px;
+transition: 1s;
+}
+
+input[type=text]:hover {
+font-size: 20px;
+width: 400px;
+height: 60px;
+}
+
+input[type=text]:focus {
+font-size: 20px;
+width: 400px;
+height: 60px;
+border-color: green;
+}
+
+.logo {
+margin-top: 50px;
+}
+
+.disco {
+margin-top: 50px;
+background-color: rgb(88, 101, 242);
+color: white;
+width: 120px;
+height: 150px;
+font-size: 30px;
+border: none;
+border-radius: 10px;
+cursor: pointer;
+}
