@@ -13,7 +13,6 @@ function search(input, template) {
   } catch (err) {
     // input was not a valid URL
   }
-
   try {
     // input is a valid URL when http:// is added to the start:
     // eg: example.com, https://example.com/test?q=param
